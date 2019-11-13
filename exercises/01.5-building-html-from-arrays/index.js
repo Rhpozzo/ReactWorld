@@ -5,17 +5,17 @@ import ReactDOM from "react-dom"; //we use ReactDOM to render into the DOM
 
 const navlinkItems = [
 	<li className="nav-item">
-		<a className="nav-link" href="https://google.com">
+		<a className="nav-link" href="#">
 			Link to google.com
 		</a>
 	</li>,
 	<li className="nav-item">
-		<a className="nav-link" href="https://facebook.com">
+		<a className="nav-link" href="#">
 			Link to facebook.com
 		</a>
 	</li>,
 	<li className="nav-item">
-		<a className="nav-link" href="https://amazon.com">
+		<a className="nav-link" href="#">
 			Link to amazon.com
 		</a>
 	</li>
